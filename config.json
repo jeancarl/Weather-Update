@@ -1,0 +1,9 @@
+{
+	"SENDGRID_USERNAME": "",
+	"SENDGRID_PASSWORD": "",
+	"SENDGRID_FROM": "",
+	"MONGODB_ADDRESS": "mongodb://127.0.0.1:27017/test",
+	"MONGODB_MODEL_NAME": "Weather",
+	"WUNDERGROUND_API_KEY": "",
+	"PORT": 8080	
+}
